@@ -14,7 +14,7 @@ Tia Plagata & Joseph Denney
 
 # Important Links
 
-* [Jupyter Notebook with Cleaning & Questions]()
+* [Jupyter Notebook with Cleaning & Questions](https://github.com/tiaplagata/dsc-case-study-hypothesis-testing/blob/master/notebooks/student.ipynb)
 
 # Project Overview
 
