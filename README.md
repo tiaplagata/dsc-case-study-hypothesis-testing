@@ -3,7 +3,7 @@ Group members:
 Tia Plagata
 Joseph Denney
 
-![hello](https://tenor.com/view/are-you-testing-me-satan-father-priest-gif-17392429)
+![hello](https://media1.tenor.com/images/a29b98e67fea932ef3a0871bc64dab4b/tenor.gif?itemid=17392429)
 
 # Navigation
 
